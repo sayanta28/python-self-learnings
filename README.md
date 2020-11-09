@@ -1,2 +1,2 @@
 # python-self-learnings
-This repo is about self learning and practicing about python from scratch to advance.
+This branch is about learning python with mosh.
